@@ -2,6 +2,7 @@
 ## NAME: Babatunde Alfred O.
 ## DATE: 11th SEPT, 2023
 ## ABOUT ME: I AM a Developer learning the MERN stack SOFTWARE DEVELOPMENT to help me add to my skills and have a better life.
+## GITHUB Profile: https://github.com/tundealfred
 
 
 ### TITLE: Explain “growth mindset” in your own words
