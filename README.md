@@ -7,7 +7,7 @@
 
 ### TITLE: Explain “growth mindset” in your own words
 
-A growth mindset, is a belief that one's abilities and intelligence can be developed and improved over time through effort, learning, and perseverance. In contrast to a fixed mindset, where individuals believe their talents and intelligence are static traits, a growth mindset embraces challenges and sees failures as opportunities for growth.
+==A== growth mindset, is a belief that one's abilities and intelligence can be developed and improved over time through effort, learning, and perseverance. In contrast to a fixed mindset, where individuals believe their talents and intelligence are static traits, a growth mindset embraces challenges and sees failures as opportunities for growth.
 
 Here are some key principles of a growth mindset:
 
