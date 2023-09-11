@@ -15,3 +15,9 @@ Here are some key principles of a growth mindset:
 - Feedback: Constructive feedback is valued because it provides insights for improvement. Those with a growth mindset are open to criticism and use it as a means to enhance their skills.
 
 - Success of Others: Instead of feeling threatened by the success of others, individuals with a growth mindset are inspired and motivated by it. They see others' achievements as proof that improvement is possible through dedication and hard work.
+
+### TITLE: Include 3 reminders to yourself of how to keep yourself in a growth mindset
+
+1. Embrace Challenges and Mistakes: When faced with a difficult task or a setback, remind yourself that challenges are opportunities for growth. Instead of shying away from them, approach them with enthusiasm. 
+2. Focus on Effort and Learning: Shift your attention away from the end result and concentrate on the effort you're putting in and what you're learning along the way. 
+3. Seek Feedback and Continuous Improvement: Encourage yourself to actively seek feedback from others. 
