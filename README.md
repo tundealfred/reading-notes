@@ -28,3 +28,8 @@ Here are some key principles of a growth mindset:
 1. Embrace Challenges and Mistakes: When faced with a difficult task or a setback, remind yourself that challenges are opportunities for growth. Instead of shying away from them, approach them with enthusiasm. 
 2. Focus on Effort and Learning: Shift your attention away from the end result and concentrate on the effort you're putting in and what you're learning along the way. 
 3. Seek Feedback and Continuous Improvement: Encourage yourself to actively seek feedback from others. 
+
+
+[READ_01 :Learning Markdown](https://github.com/tundealfred/reading-notes/blob/main/read_01.md)
+
+[READ_02 :The Coder's Computer](https://github.com/tundealfred/reading-notes/blob/main/read_02.md)
