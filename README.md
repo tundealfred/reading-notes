@@ -35,3 +35,7 @@ Here are some key principles of a growth mindset:
 [READ_02 :The Coder's Computer](https://github.com/tundealfred/reading-notes/blob/main/read_02.md)
 
 [READ_05 :Design web pages with CSS](https://github.com/tundealfred/reading-notes/blob/main/read_05.md)
+
+[READ_08 :Operators and LoopsS](https://github.com/tundealfred/reading-notes/blob/main/read_08.md)
+
+
