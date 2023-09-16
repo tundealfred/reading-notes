@@ -33,3 +33,5 @@ Here are some key principles of a growth mindset:
 [READ_01 :Learning Markdown](https://github.com/tundealfred/reading-notes/blob/main/read_01.md)
 
 [READ_02 :The Coder's Computer](https://github.com/tundealfred/reading-notes/blob/main/read_02.md)
+
+[READ_05 :Design web pages with CSS](https://github.com/tundealfred/reading-notes/blob/main/read_05.md)
